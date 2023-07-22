@@ -11,7 +11,7 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"rebornix.Ruby",
-                "vortizhe.simple-ruby-erb",
+				"vortizhe.simple-ruby-erb",
 				"ms-azuretools.vscode-docker"				
 			]
 		}
