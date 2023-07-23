@@ -13,7 +13,7 @@ Refinery::Core.configure do |config|
   # config.base_cache_key = :refinery
 
   # Site name
-  # config.site_name = "Rick Rock Star Company Name"
+  # config.site_name = "New Rick Rock Star 517 Company Name"
 
   # This activates Google Analytics tracking within your website. If this
   # config is left blank or set to UA-xxxxxx-x then no remote calls to
